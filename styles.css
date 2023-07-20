@@ -1,5 +1,15 @@
 
 /* Your CSS Code here. */
 .head{
+   background-color: darkred;
+}
+.first{
+	background-color: pink;
 
+}
+.sec{
+	background-color: hotpink;
+}
+.third{
+	background-color : grey;
 }
